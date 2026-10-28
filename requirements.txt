@@ -1,0 +1,32 @@
+# Packages imported across the notebooks (no pins; the notebooks were run on Colab
+# with the versions available in 2022-2026). Install only what the notebook you open needs.
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+missingno
+tqdm
+pillow
+requests
+
+# deep learning
+torch
+torchvision
+torchmetrics
+tensorflow
+pycocotools
+
+# NLP
+datasets
+transformers
+sentence-transformers
+nltk
+spacy
+clean-text
+Unidecode
+
+# optimisation and misc
+pulp
+graphviz
