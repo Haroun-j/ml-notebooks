@@ -1,0 +1,19 @@
+# not published
+private/
+slides/
+
+# notebook and python residue
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# data and model files downloaded or written by the notebooks
+data/
+checkpoints/
+runs/
+*.pt
+*.pth
+*.h5
+*.csv
+*.zip
+.env
